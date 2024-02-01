@@ -11,7 +11,7 @@ Using LibreOffice as a server for converting documents.
 
 ## Requirements
 
-- Go 1.18 or later
+- Go 1.20 or later
 
 - [Apache OpenOffice](https://www.openoffice.org/) or [LibreOffice](https://www.libreoffice.org/); the latest stable version is usually recommended.
 
